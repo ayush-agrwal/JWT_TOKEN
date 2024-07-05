@@ -16,3 +16,19 @@ Contributions are welcome! Feel free to open issues or pull requests for improve
 
 - Spring Boot and Spring Security documentation
 - JWT.io for JWT documentation and tools
+
+
+##for personal use
+json to order product 
+{
+    "fullName":"ayush",
+    "fullAddress":"pune",
+    "contactNumber":"9090909090",
+    "alternateContactNumber":"90909090990",
+    "orderProductQuantity":[
+        {
+        "productId": 3,
+        "quantity": 2
+        }
+    ]
+}
